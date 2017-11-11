@@ -1,4 +1,9 @@
+body{
+    text-align: center;
+    background: url(https://media.npr.org/assets/img/2017/06/15/istock-182747082-67513e4d2f9afc42710d06a802b9ee140321a3ac-s900-c85.jpg);
+    color: yellow;
+}
 img {
-    width: 50px;
-    
+    width: 300px;
+    border-radius: 10px;
 }
